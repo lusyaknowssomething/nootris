@@ -1,0 +1,17 @@
+.header__logo {
+  max-width: 120px;
+  object-fit: contain;
+  padding-right: 14px;
+}
+
+/* @media (max-width: 910px) {
+  .header__logo {
+    padding-left: 27px;
+  }
+}
+
+@media (max-width: 500px) {
+  .header__logo {
+    max-width: 103px;
+  }
+} */

@@ -1,0 +1,6 @@
+.header__button {
+  justify-self: flex-end;
+  background: none;
+  border: none;
+  position: relative;
+}

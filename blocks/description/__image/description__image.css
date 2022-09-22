@@ -1,0 +1,6 @@
+.description__image {
+  position: absolute;
+  bottom: -112px;
+  right: 13px;
+  z-index: -1;
+}

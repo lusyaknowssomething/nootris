@@ -1,0 +1,7 @@
+.description {
+  background-image: url("../../images/bg.svg");
+  background-position: bottom;
+  padding: 0 64px;
+  position: relative;
+  z-index: 1;
+}

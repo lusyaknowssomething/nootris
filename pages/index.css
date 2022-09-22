@@ -1,0 +1,24 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+
+@import url(../blocks/body/body.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/__header/page__header.css);
+@import url(../blocks/page/__profile/page__profile.css);
+@import url(../blocks/page/__elements/page__elements.css);
+@import url(../blocks/page/__footer/page__footer.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__links/header__links.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__link/_active/header__link_active.css);
+@import url(../blocks/header/__button/header__button.css);
+@import url(../blocks/header/__busket-number/header__busket-number.css);
+
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/__notries-help-text/description__notries-help-text.css);
+@import url(../blocks/description/__notries-help-title/description__notries-help-title.css);
+@import url(../blocks/description/__text/description__text.css);
+@import url(../blocks/description/__title/description__title.css);
+@import url(../blocks/description/__image/description__image.css);
