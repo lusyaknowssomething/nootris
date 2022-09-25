@@ -1,3 +1,12 @@
+.header__busket {
+  transition: opacity .5s;
+}
+
+.header__busket:hover {
+  opacity: .8;
+}
+
+
 @media (max-width: 700px) {
   .header__busket {
     height: 22px;
