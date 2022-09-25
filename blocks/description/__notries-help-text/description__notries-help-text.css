@@ -4,4 +4,29 @@
   font-size: 18px;
   line-height: 21px;
   padding-bottom: 95.98px;
+  max-width: 416px;
+  margin: 0;
 }
+
+@media (max-width: 1000px) {
+  .description__notries-help-text {
+    font-size: 11px;
+    line-height: 13px;
+    padding-bottom: 45px;
+    max-width: 210px;
+  }
+}
+
+@media (max-width: 600px) {
+  .description__notries-help-text {
+    padding-bottom: 200px;
+  }
+}
+
+@media (max-width: 400px) {
+  .description__notries-help-text {
+    max-width: 155px;
+    padding-bottom: 180px;
+  }
+}
+

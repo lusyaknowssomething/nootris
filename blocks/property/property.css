@@ -1,0 +1,24 @@
+.property {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.property:first-child {
+  grid-area: ginger;
+}
+
+.property:nth-child(2) {
+  grid-area: nootris;
+}
+
+.property:last-child {
+  grid-area: virus;
+}
+
+
+@media (max-width: 400px) {
+  .property {
+    align-items: center;
+  }
+}

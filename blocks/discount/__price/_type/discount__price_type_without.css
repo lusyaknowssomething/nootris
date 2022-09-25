@@ -1,0 +1,13 @@
+.discount__price_type_without {
+  font-size: 36px;
+  line-height: 43px;
+  color: #ADADAD;
+  text-decoration: line-through;
+}
+
+@media (max-width: 850px) {
+  .discount__price_type_without {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}

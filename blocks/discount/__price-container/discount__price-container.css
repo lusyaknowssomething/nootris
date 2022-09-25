@@ -1,0 +1,12 @@
+.discount__price-container {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+  align-items: center;
+}
+
+@media (max-width: 850px) {
+  .discount__price-container {
+    gap: 25px;
+  }
+}

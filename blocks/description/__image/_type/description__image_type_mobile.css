@@ -1,0 +1,9 @@
+.description__image_type_mobile {
+  display: none;
+}
+
+@media (max-width: 700px) {
+  .description__image_type_mobile {
+    display: block;
+  }
+}

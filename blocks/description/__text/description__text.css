@@ -5,3 +5,34 @@
   line-height: 28px;
   margin: 0;
 }
+
+@media (max-width: 1200px) {
+  .description__text {
+    font-size: 20px;
+    line-height: 24px;
+    max-width: 550px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .description__text {
+    font-size: 15px;
+    line-height: 19px;
+    max-width: 450px;
+  }
+}
+
+@media (max-width: 850px) {
+  .description__text {
+    font-size: 13px;
+    line-height: 15px;
+    max-width: 400px;
+  }
+}
+
+@media (max-width: 600px) {
+  .description__text {
+    text-align: center;
+    margin: 0 auto;
+  }
+}

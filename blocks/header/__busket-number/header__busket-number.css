@@ -13,3 +13,13 @@
   right: 0;
   bottom: 0;
 }
+
+@media (max-width: 700px) {
+  .header__busket-number {
+    width: 14px;
+  height: 14px;
+  font-size: 10px;
+  line-height: 14px;
+  bottom: 6px;
+  }
+}

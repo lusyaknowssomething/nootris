@@ -11,10 +11,14 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__links/header__links.css);
+@import url(../blocks/header/__item/header__item.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__link/_active/header__link_active.css);
+@import url(../blocks/header/__buttons/header__buttons.css);
 @import url(../blocks/header/__button/header__button.css);
+@import url(../blocks/header/__busket/header__busket.css);
 @import url(../blocks/header/__busket-number/header__busket-number.css);
+@import url(../blocks/header/__burger/header__burger.css);
 
 @import url(../blocks/description/description.css);
 @import url(../blocks/description/__notries-help-text/description__notries-help-text.css);
@@ -22,3 +26,24 @@
 @import url(../blocks/description/__text/description__text.css);
 @import url(../blocks/description/__title/description__title.css);
 @import url(../blocks/description/__image/description__image.css);
+@import url(../blocks/description/__image/_type/description__image_type_desktop.css);
+@import url(../blocks/description/__image/_type/description__image_type_mobile.css);
+
+@import url(../blocks/discount/discount.css);
+@import url(../blocks/discount/__orange-span/discount__orange-span.css);
+@import url(../blocks/discount/__price-container/discount__price-container.css);
+@import url(../blocks/discount/__price/discount__price.css);
+@import url(../blocks/discount/__price/_type/discount__price_type_with.css);
+@import url(../blocks/discount/__price/_type/discount__price_type_without.css);
+@import url(../blocks/discount/__title/discount__title.css);
+@import url(../blocks/discount/__button/discount__button.css);
+
+@import url(../blocks/property/property.css);
+@import url(../blocks/property/__container/property__container.css);
+@import url(../blocks/property/__text/property__text.css);
+@import url(../blocks/property/__text/_type/property__text_type_nootris-main.css);
+@import url(../blocks/property/__text/_type/property__text_type_nootris-span.css);
+@import url(../blocks/property/__image/_type/property__image_type_ginger.css);
+@import url(../blocks/property/__image/_type/property__image_type_nootris.css);
+@import url(../blocks/property/__image/_type/property__image_type_virus.css);
+/* @import url(../blocks/property/); */

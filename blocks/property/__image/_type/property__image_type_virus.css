@@ -1,0 +1,21 @@
+.property__image_type_virus {
+  width: 192px;
+}
+
+@media (max-width: 1100px) {
+  .property__image_type_virus {
+    width: 134px;
+  }
+}
+
+@media (max-width: 850px) {
+  .property__image_type_virus {
+    width: 113px;
+  }
+}
+
+@media (max-width: 600px) {
+  .property__image_type_virus {
+    width: 160px;
+  }
+}

@@ -5,8 +5,14 @@
   justify-content: space-between;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1350px) {
   .header {
-    padding: 28px 0 31px;
+    padding: 23px 24px;
+  }
+}
+
+@media (max-width: 700px) {
+  .header {
+    padding: 8px 18px;
   }
 }

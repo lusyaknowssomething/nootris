@@ -1,0 +1,12 @@
+.header__burger {
+  display: none;
+  background-color: transparent;
+  border: none;
+  margin-left: 30px;
+}
+
+@media (max-width: 700px) {
+  .header__burger {
+    display: block;
+  }
+}

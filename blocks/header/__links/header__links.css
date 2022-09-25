@@ -6,3 +6,20 @@
   padding: 0;
 }
 
+@media (max-width: 1200px) {
+  .header__links {
+    gap: 20px;
+  }
+}
+
+@media (max-width: 850px) {
+  .header__links {
+    gap: 13px;
+  }
+}
+
+@media (max-width: 700px) {
+  .header__links {
+    display: none;
+  }
+}

@@ -1,6 +1,35 @@
 .description__image {
   position: absolute;
   bottom: -112px;
-  right: 13px;
+  right: 0;
   z-index: -1;
+  width: 816px;
+}
+
+@media (max-width: 1200px) {
+  .description__image {
+    width: 700px;
+    bottom: -90px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .description__image {
+    width: 470px;
+    bottom: -60px;
+  }
+}
+
+@media (max-width: 700px) {
+  .description__image {
+    width: 380px;
+    bottom: -50px;
+  }
+}
+
+@media (max-width: 400px) {
+  .description__image {
+    width: 310px;
+    bottom: -40px;
+  }
 }

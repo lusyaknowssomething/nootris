@@ -1,0 +1,21 @@
+.property__image_type_nootris {
+  width: 480px;
+}
+
+@media (max-width: 1100px) {
+  .property__image_type_nootris {
+    width: 336px;
+  }
+}
+
+@media (max-width: 850px) {
+  .property__image_type_nootris {
+    width: 258px;
+  }
+}
+
+@media (max-width: 600px) {
+  .property__image_type_nootris {
+    margin: 20px auto 0;
+  }
+}

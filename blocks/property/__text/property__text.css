@@ -1,0 +1,14 @@
+.property__text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  margin: 45px 0 0;
+}
+
+@media (max-width: 850px) {
+  .property__text {
+    font-size: 13px;
+    line-height: 15px;
+  }
+}

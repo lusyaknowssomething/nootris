@@ -1,0 +1,30 @@
+.discount__button {
+  background-color: #FCB500;
+  color: #000;
+  padding: 16px 32px;
+  font-size: 18px;
+  line-height: 21px;
+  border-radius: 7px;
+  margin: 64px auto 112px;
+  display: block;
+  transition: all .5s;
+}
+
+.discount__button:hover {
+  transform: scale(1.03);
+}
+
+@media (max-width: 850px) {
+  .discount__button {
+    padding: 14px 28px;
+    font-size: 14px;
+    line-height: 17px;
+    margin: 39px auto 80px;
+  }
+}
+
+@media (max-width: 600px) {
+  .discount__button {
+    margin: 78px auto 94px;
+  }
+}

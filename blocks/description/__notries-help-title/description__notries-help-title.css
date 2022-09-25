@@ -5,3 +5,19 @@
   font-size: 36px;
   line-height: 43px;
 }
+
+@media (max-width: 1000px) {
+  .description__notries-help-title {
+    font-size: 22px;
+    line-height: 26px;
+    margin: 77px 0 8px;
+  }
+}
+
+@media (max-width: 400px) {
+  .description__notries-help-title {
+    font-size: 15px;
+    line-height: 18px;
+    margin: 41px 0 8px;
+  }
+}
